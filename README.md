@@ -1,4 +1,4 @@
-# E-commerce backend
+# E-commerce back end
 
 ### Erin Jordan's e-commerce Week 13 Project for University of Denver Coding Bootcamp. 
 #### The purpose of this project is to build the back end for an e-commerce site.
